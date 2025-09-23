@@ -1,1 +1,1 @@
-this Repository is for datastructures
+please correct the code if i am wrong
